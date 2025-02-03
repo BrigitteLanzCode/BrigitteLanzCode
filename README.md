@@ -1,5 +1,6 @@
-#Welcome to my GitHub
-About me: I am a scientist interested in 
+# Welcome to my GitHub
+## About me: 
+I am a scientist interested in 
 - Optoelectronics
 - Frontend Web Development
-![susi](https://pixels.com/featured/wolf-persevere-amy-hamilton.html?product=art-print)
+![susi](https://render.fineartamerica.com/images/rendered/medium/print/6.5/8/break/images/artworkimages/medium/1/wolf-persevere-amy-hamilton.jpg)

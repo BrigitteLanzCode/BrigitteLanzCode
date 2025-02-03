@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 ## About me: 
-I am a scientist interested in:\
+I am a scientist interested in: 
 - Optoelectronics
 - Frontend Web Development
   

@@ -1,9 +1,21 @@
-# Welcome to my GitHub
-## About me: 
-I am a scientist interested in: 
-- Optoelectronics
-- Frontend Web Development
-  
-![susi](https://render.fineartamerica.com/images/rendered/medium/print/6.5/8/break/images/artworkimages/medium/1/wolf-persevere-amy-hamilton.jpg)
+# <Hi ♥ />,
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrigitteLanzCode.visitor-badge)
+I'm **Brigitte**, located in Germany. <br>
+
+Thanks for visiting my GitHub profile! <br>
+
+Feel free to reach out to me. <br>
+
+[LinkedIn](https://fi.linkedin.com/in/brigitte-lanz-2ba30751?trk=people-guest_people_search-card)
+
+Tech stack skills `to be checked on the go` :<br>
+- [ ] Git
+- [x] GitHub
+- [ ] HTML 5
+- [ ] CSS
+- [ ] JavaScript
+- [ ] React
+- [ ] Next.js
+- [ ] mongoDB
+
+![spider](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkIkpBH-KZcKpetd_CWFHxUUKknr7O9SdpA&s)
